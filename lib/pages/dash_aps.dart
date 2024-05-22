@@ -1,13 +1,15 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+// Saya menggunakan Chrome untuk menjalankan programnya pak,
+// flutter run -t lib/pages/dash_aps.dart -d chrome
 
 void main() {
   runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Hallo Guys",
+      title: "Soal 1 Quis",
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Halo Teman Teman'),
+          title: const Text('Dashboard Aplikasi'),
         ),
         body: SingleChildScrollView(
             child: Padding(
