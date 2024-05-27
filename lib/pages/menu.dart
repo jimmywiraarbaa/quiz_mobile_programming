@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+///flutter run -t lib/pages/menu.dart -d chrome
+
 void main() => runApp(MenuApp());
 
 class MenuApp extends StatelessWidget {

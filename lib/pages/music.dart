@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-//saya menjalankan menggunakan Chrome pak
-// flutter run -t lib/pages/music.dart -d chrome
+///saya menjalankan menggunakan Chrome pak
+/// flutter run -t lib/pages/music.dart -d chrome
 
 void main() => runApp(MusicMinangApp());
 
